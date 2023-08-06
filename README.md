@@ -11,7 +11,7 @@ locks should be encountered. All queries are run NON exclusively.
 ### Installation
 
 ```bash
-    pip install pyvfp
+pip install pyvfp
 ```
 
 ### Usage
